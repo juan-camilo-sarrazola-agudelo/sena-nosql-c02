@@ -1,0 +1,7 @@
+{
+  _id: 'APR-001',
+  nombre: 'Ana Torres',
+  ficha: '3410947',
+  activo: true,
+  tecnologias: [ 'JavaScript', 'Git' ]
+}

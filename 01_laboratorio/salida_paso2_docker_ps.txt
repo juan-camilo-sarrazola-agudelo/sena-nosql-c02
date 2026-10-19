@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED      STATUS         PORTS                        NAMES
+13cceee7459a   mongo:8.0.32   "docker-entrypoint.s…"   9 days ago   Up 6 minutes   127.0.0.1:27017->27017/tcp   nosql-mongo
